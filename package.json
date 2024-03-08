@@ -1,0 +1,26 @@
+{
+"name": "canvasgeometric-amatgt",
+"version": "1.0.0",
+"description": "This project demonstrates a dense geometric animation effect created using JavaScript on HTML5 Canvas.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/Amatgt/CanvasGeometric.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "Amatgt",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
